@@ -11,7 +11,7 @@
 - ⚡ I Code With ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ## Some Stats
-![Amars's github stats](https://github-readme-stats.vercel.app/api?username=aamar-prabhu-29&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=radical)<br><br>
+![Amars's github stats](https://github-readme-stats.vercel.app/api?username=amar-prabhu-29&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=radical)<br><br>
 
 ![Amar's Language Count](https://github-readme-stats.vercel.app/api/top-langs/?username=amar-prabhu-29&count_private=true)
 
